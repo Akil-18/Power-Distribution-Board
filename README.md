@@ -2,7 +2,7 @@
 
 **INTRODUCTION**
 
-The power distribution board PCB, designed using KiCad for Technocrats Robotics, efficiently manages and distributes three distinct voltage levels — 12V, 24V, and 5V. The board features an optimized PCB layout that provides a compact and functional design, maximizing space utilization within the Rover’s enclosure. This ensures that all critical components of the Rover receive the appropriate power supply for optimal operation.
+The power distribution board PCB, designed using KiCad for Technocrats Robotics, efficiently manages and distributes three distinct voltage levels — 5V, 12V, and 24V. The board features an optimized PCB layout that provides a compact design, maximizing space utilization within the Rover’s enclosure. This ensures that all critical components of the Rover receive the appropriate power supply for optimal operation.
 
 **SCHEMATIC DIAGRAM**
 
